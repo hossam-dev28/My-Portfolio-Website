@@ -20,7 +20,7 @@ This repository contains the source code for my **personal portfolio website**. 
 * 📊 **Data Science & Analytics**
 * 📈 **Business Intelligence**
 * 📉 **Data Visualization & Dashboarding**
-* ⚙️ **Data Engineering Principles**
+
 
 ---
 
